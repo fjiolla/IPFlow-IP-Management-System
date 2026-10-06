@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+node_modules/
+dist/
+.angular/
+
+appsettings.Development.json
+*.log
+*.db
+*.db-shm
+*.db-wal
+Migrations/
