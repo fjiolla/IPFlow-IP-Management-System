@@ -1,4 +1,4 @@
 export const environment = {
-  production: false,
-  apiUrl: 'http://localhost:5006/api'
+  production: true,
+  apiUrl: 'https://ipflow-ip-management-system.onrender.com/api'
 };
